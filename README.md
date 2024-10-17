@@ -14,6 +14,12 @@ This project involves predicting customer churn using machine learning models an
 - **Predictive Modeling**: Built and compared models like Logistic Regression, Random Forest, and Decision Trees for churn prediction.
 - **Class Imbalance Handling**: Used SMOTE to balance the dataset.
 
+- ## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib/Seaborn
+
 ## Results
 - **Best Model**: Random Forest achieved an accuracy of 98% for churn prediction.
 - **Clustering**: Found 4 distinct customer groups based on demographics and usage patterns.
