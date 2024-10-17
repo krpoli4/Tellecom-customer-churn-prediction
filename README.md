@@ -15,7 +15,7 @@ This project involves predicting customer churn using machine learning models an
 - **Class Imbalance Handling**: Used SMOTE to balance the dataset.
 
 ## Results
-- **Best Model**: Random Forest achieved an accuracy of X% for churn prediction.
+- **Best Model**: Random Forest achieved an accuracy of 98% for churn prediction.
 - **Clustering**: Found 4 distinct customer groups based on demographics and usage patterns.
 
 
