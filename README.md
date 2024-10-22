@@ -4,7 +4,7 @@ This project involves predicting customer churn using machine learning models an
 
 ## Project Overview
 - **Objective**: Predict customer churn and profile customer segments for better customer retention strategies.
-- **Dataset**: [Telecom Customer Churn Dataset](URL to dataset)
+- **Dataset**: [Telecom Customer Churn Dataset]
 - **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 - **Models Used**: Logistic Regression, Decision Trees, Random Forest, SMOTE, K-Means Clustering
 
